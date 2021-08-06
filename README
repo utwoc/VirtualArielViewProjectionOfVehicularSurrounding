@@ -1,0 +1,15 @@
+How to run the Virtual Top View Project.
+
+Step 1: Install Python (version > 3.0) download link : https://www.python.org/downloads/
+
+Step 2 : Add python path as environment variable : https://geek-university.com/python/add-python-to-the-windows-path/
+
+Step 3 : Install pip : https://www.liquidweb.com/kb/install-pip-windows/
+
+Step 4 : Install OpenCV : Open CMD as administrator -> type this command : pip install opencv-python
+
+Step 5 : Place the .mp4 in folder name Project in D:/Project/
+
+Step 6 : Place the .py file under the same folder (D:/Project/)
+
+The project is now set, you can open the file in IDLE (Python) and run the project.
